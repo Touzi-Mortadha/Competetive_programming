@@ -1,0 +1,6 @@
+prg : main.o
+	g++ -c prg main.o
+main.o : main.cpp
+	g++ -c main.cpp
+clear :
+	rm *.o prg

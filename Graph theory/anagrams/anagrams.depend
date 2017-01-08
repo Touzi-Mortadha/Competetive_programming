@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1465154975 source:/home/touzi/Bureau/TCPC/Graph theory/anagrams/main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<bitset>
+	<set>
+	<algorithm>
+

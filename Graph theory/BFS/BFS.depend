@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463849170 source:/home/touzi/Bureau/TCPC/Graph theory/BFS/main.cpp
+	<cstdio>
+	<vector>
+	<list>
+	<utility>
+	<iostream>
+	<queue>
+

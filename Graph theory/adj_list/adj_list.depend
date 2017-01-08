@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1463830132 source:/home/touzi/Bureau/TCPC/Graph theory/adj_list/main.cpp
+	<cstdio>
+	<vector>
+	<list>
+	<utility>
+	<iostream>
+
+1463830132 source:/home/touzi/Bureau/Bureau ubuntu/TCPC/Graph theory/adj_list/main.cpp
+	<cstdio>
+	<vector>
+	<list>
+	<utility>
+	<iostream>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463843797 source:/home/touzi/Bureau/TCPC/Graph theory/snakes_and_laders/main.cpp
+	<cstdio>
+	<vector>
+	<list>
+	<utility>
+	<iostream>
+	<queue>
+
